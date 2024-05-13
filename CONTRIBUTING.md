@@ -1,4 +1,5 @@
 ## Contributing to Lupo Skill
+# HOLA!
 
 Thank you for considering contributing to Lupo Skill. We appreciate your interest in improving our platform. To ensure smooth collaboration, please follow these guidelines when contributing.
 - **We allow a maximum of 2 issues to be assigned per person.**
