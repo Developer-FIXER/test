@@ -5,7 +5,7 @@ Thank you for considering contributing to Lupo Skill. We appreciate your interes
 - The issues are assigned on *FIRST-COME-FIRST-SERVE* basis.
 - Always use the issue and PR templates provided.
 
-### Getting Started
+### Getting Started now
 
 1. **Fork the repository:** Start by forking the Lupo Skill repository to your own GitHub account.
 2. **Clone the repository:** Clone the forked repository to your local machine using Git.
