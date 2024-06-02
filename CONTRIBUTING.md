@@ -49,3 +49,5 @@ git checkout <branch name>
 git push origin <branch name>
 ```
 12. **Create a pull request:** Submit a pull request to the Lupo Skill repository.
+
+# hEY i'M nOT nEYATI.
